@@ -4,3 +4,5 @@
 #### cordova-plugin-whitelist
 #### cordova-plugin-file
 #### cordova-plugin-file-transfer
+## Author: AmroHifzy
+## Author WebSite: https://deution.com
